@@ -8,7 +8,7 @@ A Deep learning framework for cervical cancer classification on the SIPakMed dat
 </table>
 
 ### Brief Summary
-As part of a Final Year project a deep learning framework is developed for cervical cancer detection and classification based on microscopics images of cells from PAP-test smear. The purpose of this project is to provide a helpful tool for doctors to rapidly detect if a patient has developed or is in danger of developing cervical cancer.Simply stated, it consitutes a rapid tool for detection and prognosis of cervical cancer for female patients. 
+As part of the Final Year project a deep learning framework is developed for cervical cancer detection and classification based on microscopics images of cells from PAP-test smear. The purpose of this project is to provide a helpful tool for doctors to rapidly detect if a patient has developed or is in danger of developing cervical cancer.Simply stated, it consitutes a rapid tool for detection and prognosis of cervical cancer for female patients. 
 
 ### Dataset
 The model will be trained on the [SIPakMed](https://www.researchgate.net/figure/The-boundaries-of-the-cytoplasm-and-the-nucleus-of-each-cell-in-images-of-cell-clusters_fig1_327995161) which is a new Dataset for Feature and Image Based Classification of Normal and Pathological Cervical Cells in Pap Smear Images . The dataset can be downloaded [here](http://www.cs.uoi.gr/~marina/sipakmed.html)
